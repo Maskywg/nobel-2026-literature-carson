@@ -1,0 +1,23 @@
+[
+  {
+    "file": "portrait.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Anne%20Carson%20closeup%20%28cropped%29.jpg",
+    "artist": "Jay Dixit",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "reading.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Anne%20Carson%2C%20poet%2C%20at%20the%202024%20National%20Book%20Awards%20finalist%20reading%205.jpg",
+    "artist": "Jay Dixit",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "parthenon.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:The%20Parthenon%20at%20the%20Acropolis%20of%20Athens.jpg",
+    "artist": "Ceylnbirol",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  }
+]
